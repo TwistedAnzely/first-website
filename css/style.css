@@ -1,5 +1,4 @@
-body {
-	background-color: purple;
-	color: white;
-	border: 5px solid black;
+div {
+	border: 1px black;
+	background-color: green;	
 }
