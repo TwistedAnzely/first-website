@@ -1,4 +1,7 @@
 div {
 	border: 1px black;
-	background-color: green;	
+	background-color: green;
+	width: 500px; /* This sets the width to 500px */
+	margin: 0 auto; /* This sets the upper and lower margins to 0, and the left are right margins to auto (which makes it centered) */
+	border: 10px solid black; /* This sets the border */
 }
